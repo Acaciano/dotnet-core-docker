@@ -1,0 +1,12 @@
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.csprojAssemblyReference.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.csproj.CoreCompileInputs.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.RazorAssemblyInfo.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.RazorAssemblyInfo.cs
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.AssemblyInfoInputs.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc/obj/Debug/netcoreapp2.1/App-Mvc.AssemblyInfo.cs
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.csprojAssemblyReference.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.csproj.CoreCompileInputs.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.RazorAssemblyInfo.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.RazorAssemblyInfo.cs
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.AssemblyInfoInputs.cache
+/Users/acaciano/Projects/git/dotnet-core-docker/src/appmvc-2.2/obj/Debug/netcoreapp2.1/App-Mvc.AssemblyInfo.cs
